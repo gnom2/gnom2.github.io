@@ -1059,6 +1059,12 @@ box-shadow: 6px 10px 20px -6px rgba(0,0,0,0.75);
   font-family: 'Quicksand', sans-serif;
 }
 
+.contact-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 /* Footer Style */
 
