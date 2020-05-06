@@ -519,13 +519,13 @@
 			margin-top: 1.5em;
 			vertical-align: baseline;
       align-self: center;
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'Quicksand', sans-serif;
 			justify-self: center;
 			/* display: none; */
 		}
 
 		span.label {
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'Quicksand', sans-serif;
 			font-size: .20em;
 			letter-spacing: .1em;
       color: black;
